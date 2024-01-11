@@ -12,3 +12,10 @@ body {
     width: 1000px;
     margin: 0 auto;
 } 
+
+section {
+    background-color: #F1EFE9;
+    height: 500px;
+    margin-top: 20em;
+    padding: 2em;
+}
