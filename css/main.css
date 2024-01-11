@@ -25,4 +25,6 @@ section {
     height: 500px;
     margin-top: 20em;
     padding: 2em;
+    display: grid;
+    
 }
