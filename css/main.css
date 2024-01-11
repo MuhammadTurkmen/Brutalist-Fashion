@@ -35,3 +35,7 @@ section {
 .tiger {
     grid-area: tiger;
 }
+
+h1 {
+    grid-area: header;
+}
