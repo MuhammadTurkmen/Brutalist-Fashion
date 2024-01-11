@@ -39,3 +39,7 @@ section {
 h1 {
     grid-area: header;
 }
+
+.dog {
+    grid-area: dog;
+}
