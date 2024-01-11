@@ -26,5 +26,8 @@ section {
     margin-top: 20em;
     padding: 2em;
     display: grid;
-    
+    grid-template-areas: 
+        "tiger header header"
+        "tiger dog content"
+        "fish dog content";
 }
