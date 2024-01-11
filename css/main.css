@@ -31,3 +31,7 @@ section {
         "tiger dog content"
         "fish dog content";
 }
+
+.tiger {
+    grid-area: tiger;
+}
