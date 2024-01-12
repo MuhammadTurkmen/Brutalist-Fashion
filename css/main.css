@@ -82,4 +82,5 @@ p {
 
 a {
     display: flex;
+    align-items: center;
 }
