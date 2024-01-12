@@ -39,6 +39,7 @@ section {
 
 section:before {
     position: absolute;
+    content: "wow";
 }
 
 .tiger {
