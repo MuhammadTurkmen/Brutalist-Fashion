@@ -79,3 +79,7 @@ p {
     flex-direction: column;
     justify-content: space-between;
 }
+
+a {
+    display: flex;
+}
