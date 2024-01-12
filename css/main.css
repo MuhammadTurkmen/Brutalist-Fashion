@@ -42,6 +42,7 @@ section:before {
     content: "wow";
     font-weight: 800;
     font-size: 30rem;
+    z-index: -1;
 }
 
 .tiger {
