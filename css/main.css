@@ -51,3 +51,7 @@ h1 {
 .fish {
     grid-area: fish;
 }
+
+h1 {
+    font-size: 8rem;
+}
