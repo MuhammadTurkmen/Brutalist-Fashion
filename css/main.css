@@ -73,3 +73,7 @@ p, a {
 p {
     margin: 0;
 }
+
+.content {
+    display: flex;
+}
