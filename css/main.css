@@ -22,9 +22,9 @@ section {
 
     display: grid;
     grid-template-areas:
-        "tiger header header"
-        "tiger dog content"
-        "fish dog content";
+        "header header"
+        "dog content"
+        "fish tiger";
 
     grid-template-columns: repeat(2, 1fr) 2fr;
     grid-template-rows: auto 1fr 100px;
