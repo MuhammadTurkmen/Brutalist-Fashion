@@ -105,5 +105,6 @@ svg {
             "tiger dog content"
             "fish dog content";
         grid-template-columns: repeat(2, 1fr) 2fr;
+        grid-template-rows: auto 1fr 100px;
     }
 }
