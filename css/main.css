@@ -98,6 +98,11 @@ svg {
 }
 
 @media only screen and (min-width: 700px) {
-    
-    
+
+    section {
+        grid-template-areas: 
+            "tiger header header"
+            "tiger dog content"
+            "fish dog content";
+    }
 }
