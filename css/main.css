@@ -80,6 +80,7 @@ p {
     margin: 0;
 }
 a {
+    margin-top: 3em;
     text-decoration: none;
     color: black;
     display: flex;
